@@ -6,11 +6,6 @@
 .x7 {
     text-align: center;
     padding: 70px 40px;
-
-}
-
-.header img {
-    width: 100px;
 }
 
  .header h1 {
@@ -19,4 +14,8 @@
 
 .header img h1 {
     display: inline-flex;
+}
+
+.conteudo img .p2{
+    display:inline-flex;
 }
