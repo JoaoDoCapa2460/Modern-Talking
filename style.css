@@ -19,3 +19,7 @@
 .conteudo img .p2{
     display:inline-flex;
 }
+
+.conteudo .p2 {
+    text-align: left;
+}
