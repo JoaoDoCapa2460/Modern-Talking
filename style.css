@@ -10,9 +10,13 @@
 }
 
 .header img {
-    width: 148px;
+    width: 100px;
 }
 
 h1 {
     text-align: center;
+}
+
+.header img h1 {
+    display: inline-flex;
 }
